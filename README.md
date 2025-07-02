@@ -10,7 +10,8 @@ You have 30 seconds to pop as much bubble was you want. The ghost comes randomly
 
 ## Link to the game:
 Try it out:  
-https://www.reddit.com/r/bbl_wrap_sim_game/
+https://www.reddit.com/r/bbl_wrap_sim_game/  
+Then you can just launch app and start playing !!
 
 ## Running the app in development mode
 
